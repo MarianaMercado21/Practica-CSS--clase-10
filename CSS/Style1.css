@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 2;
+}
+header{
+    background-color: #ADD8E6;
+    padding: 40px;
+}
+nav{
+    background-color: #000080;
+    padding: 20px;
+}
+a{
+    color: white;
+    margin-right: 2%;
+}
+section{
+    border: solid 1px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 20px; 
+}
+button{
+    background-color: #0000FF;
+    padding: 4px;
+    color: white;
+}
+footer{
+    background-color: #D3D3D3;
+    margin-top: 20px;
+    padding: 20px;
+    text-align: center;
+}
